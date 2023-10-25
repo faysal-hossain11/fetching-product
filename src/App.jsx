@@ -1,11 +1,11 @@
 
-import { Route, Routes } from 'react-router-dom'
+// import { Route, Routes } from 'react-router-dom'
 import './App.css'
 import ProductsView from './feathers/Products/ProductsView'
-import Home from './components/Home/Home'
-import About from './components/About/About'
-import Services from './components/Services/Services'
-import Products from './components/Products/Products'
+// import Home from './components/Home/Home'
+// import About from './components/About/About'
+// import Services from './components/Services/Services'
+// import Products from './components/Products/Products'
 
 function App() {
 
